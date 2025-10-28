@@ -65,7 +65,7 @@ The current configuration in `index.js` tests two functions:
 2.  **`completeWord`** (Starting with "vous êtes un g"):
     ```javascript
     const completedWord = completeWord(markovChain, 'vous êtes un g', 10);
-    // [Outputs the word completion, e.g., "vous êtes un gentilhomme"]
+    // [Outputs the word completion, e.g., "vous êtes un gentil homme"]
     ```
 
 -----
